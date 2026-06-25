@@ -19,4 +19,4 @@
 
 ## 🎯 Goals
 
-Become a Software Engineer in Europe.
+Become , become who I wanted to become
