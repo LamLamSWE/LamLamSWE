@@ -14,9 +14,6 @@
  </picture>
 </a>
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamLamSWE&layout=compact&theme=tokyonight)
 
 🌱 Currently learning:
 - Java
