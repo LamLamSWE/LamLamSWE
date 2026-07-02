@@ -4,7 +4,7 @@
 
 💻 Interested in Backend Development with Java
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamLamSWE&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://www.star-history.com/?repos=star-history%2Fstar-history&type=date&legend=top-left)
 
 ## 💻 Most Used Languages
 
