@@ -4,7 +4,7 @@
 
 💻 Interested in Backend Development with Java
 ## 📊 GitHub Stats
-![GitHub Stats](https://www.star-history.com/?repos=star-history%2Fstar-history&type=date&legend=top-left)
+![GitHub Stats](https://www.star-history.com/?repos=star-history%2Fstar-history%2Chttps%3A%2Fgithub.com&type=date&legend=top-left)
 
 ## 💻 Most Used Languages
 
