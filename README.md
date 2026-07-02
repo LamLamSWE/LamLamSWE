@@ -1,8 +1,14 @@
 # Hi 👋, I'm Nguyen Xuan Lam
 
-🎓 First-year IT Student at VKU
+🎓 IT Student at VKU
 
 💻 Interested in Backend Development with Java
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LamLamSWE&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LamLamSWE&layout=compact&theme=tokyonight)
 
 🌱 Currently learning:
 - Java
@@ -18,5 +24,4 @@
 - SQL Server
 
 ## 🎯 Goals
-
 Become , become who I wanted to become
