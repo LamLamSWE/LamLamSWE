@@ -1,4 +1,4 @@
-                                                   Hi 👋, I'm Nguyen Xuan Lam
+                                                   Hi 👋, I'm Lam
 
 🎓 IT Student at VKU
 
